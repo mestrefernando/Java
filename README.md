@@ -1,3 +1,2 @@
 # Java
-Java Stuff
-Hello world program
+Java Stuff, and a Hello world program (the classic of course).
